@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\bin\Debug\net6.0\robotito02.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\bin\Debug\net6.0\robotito02.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\bin\Debug\net6.0\robotito02.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\bin\Debug\net6.0\robotito02.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\bin\Debug\net6.0\robotito02.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\refint\robotito02.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\robotito02.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\robotito02\obj\Debug\net6.0\ref\robotito02.dll
